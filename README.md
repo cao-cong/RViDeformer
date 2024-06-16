@@ -1,6 +1,6 @@
 # RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset
 
-This repository contains official implementation of RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset, by Huanjing Yue, Cong Cao, Lei Liao, Ronghe Chu, and Jingyu Yang.
+This repository contains official implementation of RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset, by Huanjing Yue, Cong Cao, Lei Liao, and Jingyu Yang.
 
 ### Recaptured Raw Video Denoising Dataset (ReCRVD Dataset)
 
